@@ -13,8 +13,10 @@ pip install -r requirements.txt
 ## Usage
 
 ```python
-python main.py
+python main.py # make sure you are in src folder.
 ```
 There will be UI to control.
 
 ## Examples
+![Cannot load image](https://github.com/hei2000/Correlation-Program/blob/main/example1.png?raw=true "Title")
+![Cannot load image](https://github.com/hei2000/Correlation-Program/blob/main/example2.png?raw=true "Title")
